@@ -1,0 +1,1 @@
+baseUrl: 'https://gor-pathology.web.app/'
